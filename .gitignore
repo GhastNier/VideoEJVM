@@ -1,9 +1,18 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
-.vscode
-.vs
+# Dossiers temporaires et intermédiaires
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Fichiers de configuration spécifiques à l'utilisateur
+*.user
+*.userprefs
+*.ide
+
+# Fichiers de build
+Build/
+
+# Fichiers de cache et de projet
 *.VC.db
 *.opensdf
 *.opendb
@@ -12,3 +21,14 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+# Fichiers d'éditeurs
+.vscode/
+.vs/
+.idea/
+
+# Fichiers macOS
+.DS_Store
+
+# Fichiers de logs
+*.log
