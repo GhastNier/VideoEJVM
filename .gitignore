@@ -33,3 +33,4 @@ Build/
 # Fichiers de logs
 *.log
 check.sh
+*.sh
