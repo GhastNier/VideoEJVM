@@ -7,11 +7,17 @@
 - **Base visuelle :**  
   Les assets visuels de base proviennent de **[Pocket Inventory Series 2 - Pixel Map](https://humblepixel.itch.io/pocket-inventory-series-2-pixel-map)** par **HumblePixel** ([https://humblepixel.itch.io](https://humblepixel.itch.io)).
 
-- **Personnages :**  
-  Les sketches des personnages ont été créés par **Marc-André Dupont** ([https://www.artstation.com/madup](https://www.artstation.com/madup)) :  
-  - **Sinii** : [sinii.png]  
-  - **Viola** : [viola.png]  
-  - **Cadenza** : [cadenza.png]  
+### Personnages
+Les sketches des personnages ont été créés par **Marc-André Dupont** ([https://www.artstation.com/madup](https://www.artstation.com/madup)) :  
+
+- **Sinii** :  
+  <img src="Sinii_Color.png" alt="Sinii" width="256"/>  
+
+- **Viola** :  
+  <img src="Viola.png" alt="Viola" width="256"/>  
+
+- **Cadenza** :  
+  <img src="Cadenza.png" alt="Cadenza" width="256"/>  
 
 ---
 
