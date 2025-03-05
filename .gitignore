@@ -1,8 +1,12 @@
-# Dossiers temporaires et intermédiaires
+# Exclude Unreal Engine binaries and intermediate files
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
+W:/Program Files/Epic Games/UE_5.5/
+# Exclude Engine and Plugin files
+/Engine/
+/Plugins/
 
 # Fichiers de configuration spécifiques à l'utilisateur
 *.user
